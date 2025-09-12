@@ -7,6 +7,7 @@ public class Main {
 
         Employee e2= (Employee) e1.clone();
         System.out.println(e1 == e2);
+        System.out.println("Hello");
 
     }
 }
