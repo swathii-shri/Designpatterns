@@ -9,6 +9,7 @@ public class Main {
         chair1.create();
         Sofa sofa1=factory.createSofa();
         sofa1.create();
+        
 
     }
 }
