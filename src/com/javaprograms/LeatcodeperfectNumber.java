@@ -1,7 +1,7 @@
 package com.javaprograms;
 
 public class LeatcodeperfectNumber {
-    public static boolean checkPerfectNumber(int num){
+    public static boolean checkPerfectNumber(int num) {
         if (num <= 1) return false;
         int sum = 0;
         for (int i = 1; i <= num / 2; i++) {
@@ -16,3 +16,5 @@ public class LeatcodeperfectNumber {
         int num = 28;
     }
 }
+
+
