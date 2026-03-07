@@ -10,6 +10,7 @@ public class LeatcodeperfectNumber {
             }
         }
         return sum == num;
+
     }
 
     public static void main(String[] args) {
